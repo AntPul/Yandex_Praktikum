@@ -58,7 +58,7 @@
             <td>pandas, numpy, tqdm, torch, transformers, nltk, re, sklearn, catboost</td>
         </tr>        
               <tr>
-            <td>Возраст по фото</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/photo_age.ipynb">Возраст по фото</a></td>
             <td>Предсказание приблизительного возраста человека по фото</td>
             <td>pandas, numpy, matplotlib, tensorflow</td>
         </tr> 
