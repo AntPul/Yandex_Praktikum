@@ -63,7 +63,7 @@
             <td>pandas, numpy, matplotlib, tensorflow</td>
         </tr> 
                 <tr>
-            <td>Финальный проект</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/final_project.ipynb">Финальный проект</a></td>
             <td>Предсказание температуры на последнем этапе легирования стали</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, catboost</td>
         </tr> 
