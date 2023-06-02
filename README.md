@@ -16,8 +16,7 @@
             <td>Исследовательский и статистический анализ видеоигр</td>
             <td>pandas, numpy, scipy, matplotlib, seaborn, plotly</td>
         </tr>
-       
-              <tr>
+        <tr>
             <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/recommendation_tarif.ipynb">Рекомендация тарифов оператора</a></td>
             <td>Построение модели для задачи классификации, которая поможет выбрать подходящий тариф для рекламы</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
