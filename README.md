@@ -12,7 +12,7 @@
             <th>Библиотеки</th>        
         </tr>
         <tr>
-            <td>Рынок видеоигр</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/video_games.ipynb">Рынок видеоигр</a></td>
             <td>Исследовательский и статистический анализ видеоигр</td>
             <td>pandas, numpy, scipy, matplotlib, seaborn, plotly</td>
         </tr>
