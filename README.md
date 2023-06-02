@@ -53,7 +53,7 @@
             <td>pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, statsmodels</td>
         </tr>        
               <tr>
-            <td>Токсичные комментарии</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/toxic_comments.ipynb">Токсичные комментарии</a></td>
             <td>Построение модели для классификации комментариев на позитивные и негативные</td>
             <td>pandas, numpy, tqdm, torch, transformers, nltk, re, sklearn, catboost</td>
         </tr>        
