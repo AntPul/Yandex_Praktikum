@@ -27,7 +27,7 @@
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
         </tr>
               <tr>
-            <td>Отток клиентов</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/customer_churn.ipynb">Отток клиентов</a></td>
             <td>Прогнозирование оттока клиентов из банка в ближайшее время</td>
             <td>pandas, matplotlib, seaborn, sklearn</td>
         </tr>      
