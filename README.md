@@ -22,7 +22,7 @@
             <td>pathlib, datetime, pandas, numpy, scipy, matplotlib, seaborn</td>
         </tr>
               <tr>
-            <td>Рекомендация тарифов оператора</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/recommendation_tarif.ipynb">Рекомендация тарифов оператора</a></td>
             <td>Построение модели для задачи классификации, которая поможет выбрать подходящий тариф для рекламы</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
         </tr>
