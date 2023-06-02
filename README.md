@@ -48,7 +48,7 @@
         </tr>      
         </tr>       
               <tr>
-            <td>Временные ряды</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/time_series.ipynb">Временные ряды</a></td>
             <td>Прогноз заказов такси на следующий час</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, statsmodels</td>
         </tr>        
