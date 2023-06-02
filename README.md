@@ -32,7 +32,7 @@
             <td>pandas, matplotlib, seaborn, sklearn</td>
         </tr>      
               <tr>
-            <td>Коэффициент восстановления золота</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/gold_recovery.ipynb">Коэффициент восстановления золота</a></td>
             <td>Предсказание коэффициента восстановления золота из золотосодержащей руды.</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
         </tr>       
