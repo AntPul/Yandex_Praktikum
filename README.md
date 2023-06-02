@@ -42,7 +42,7 @@
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
         </tr>       
               <tr>
-            <td>Стоимость авто</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/car_cost.ipynb">Стоимость авто</a></td>
             <td>Определение стоимость авто по заданным характеристикам</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, catboost</td>
         </tr>      
