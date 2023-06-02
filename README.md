@@ -37,7 +37,7 @@
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
         </tr>       
               <tr>
-            <td>Выбор скважины</td>
+            <td><a href="https://github.com/AntPul/Yandex_Praktikum/blob/main/well_selection.ipynb">Выбор скважины</a></td>
             <td>Построение модели для задачи регрессии. Анализ возможной прибыли и рисков техникой Bootstrap.</td>
             <td>pandas, numpy, matplotlib, seaborn, sklearn</td>
         </tr>       
